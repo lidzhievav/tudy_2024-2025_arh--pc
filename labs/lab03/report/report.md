@@ -129,7 +129,13 @@ header-includes:
 
 ![report.md](image/photo4.png){width=70%}
 
+5. Заполнить и скомпилировать отчет (См Рис 5)
 
+![](image/photo5.png){width=70%}
+
+6. Загрузить файлы на гитхаб (См Рис 6)
+
+![](image/photo6.png){width=70%}
 
 
 # Выводы
